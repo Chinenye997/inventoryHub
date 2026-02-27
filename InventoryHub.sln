@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryHub", "InventoryHub\InventoryHub.csproj", "{908E0130-B410-4200-88BF-B7F835C5C204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5E21EAE0-BF4C-4834-91C0-2F795B40008E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{1B82D4FF-DDD4-4CC3-9269-10C83FDC1FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908E0130-B410-4200-88BF-B7F835C5C204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908E0130-B410-4200-88BF-B7F835C5C204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908E0130-B410-4200-88BF-B7F835C5C204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908E0130-B410-4200-88BF-B7F835C5C204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E21EAE0-BF4C-4834-91C0-2F795B40008E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E21EAE0-BF4C-4834-91C0-2F795B40008E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E21EAE0-BF4C-4834-91C0-2F795B40008E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E21EAE0-BF4C-4834-91C0-2F795B40008E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B82D4FF-DDD4-4CC3-9269-10C83FDC1FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B82D4FF-DDD4-4CC3-9269-10C83FDC1FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B82D4FF-DDD4-4CC3-9269-10C83FDC1FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B82D4FF-DDD4-4CC3-9269-10C83FDC1FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
